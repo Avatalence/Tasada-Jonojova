@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: a899cacd8a5472b42903253d254ab8e1
+timeCreated: 1448542509
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: skull
+    100004: spire
+    100006: tower
+    100008: tower_ground
+    100010: tower_spire
+    100012: window_1
+    100014: window_10
+    100016: window_2
+    100018: window_3
+    100020: window_4
+    100022: window_5
+    100024: window_6
+    100026: window_7
+    100028: window_8
+    100030: window_9
+    100032: window_gound
+    100034: window_ground_1
+    100036: windows_ground_2
+    100038: windows_ground_3
+    400000: //RootNode
+    400002: skull
+    400004: spire
+    400006: tower
+    400008: tower_ground
+    400010: tower_spire
+    400012: window_1
+    400014: window_10
+    400016: window_2
+    400018: window_3
+    400020: window_4
+    400022: window_5
+    400024: window_6
+    400026: window_7
+    400028: window_8
+    400030: window_9
+    400032: window_gound
+    400034: window_ground_1
+    400036: windows_ground_2
+    400038: windows_ground_3
+    2300000: skull
+    2300002: spire
+    2300004: tower
+    2300006: tower_ground
+    2300008: window_1
+    2300010: window_10
+    2300012: window_2
+    2300014: window_3
+    2300016: window_4
+    2300018: window_5
+    2300020: window_6
+    2300022: window_7
+    2300024: window_8
+    2300026: window_9
+    2300028: window_gound
+    2300030: window_ground_1
+    2300032: windows_ground_2
+    2300034: windows_ground_3
+    3300000: skull
+    3300002: spire
+    3300004: tower
+    3300006: tower_ground
+    3300008: window_1
+    3300010: window_10
+    3300012: window_2
+    3300014: window_3
+    3300016: window_4
+    3300018: window_5
+    3300020: window_6
+    3300022: window_7
+    3300024: window_8
+    3300026: window_9
+    3300028: window_gound
+    3300030: window_ground_1
+    3300032: windows_ground_2
+    3300034: windows_ground_3
+    4300000: tower
+    4300002: window_1
+    4300004: window_2
+    4300006: window_3
+    4300008: window_4
+    4300010: window_5
+    4300012: window_6
+    4300014: window_7
+    4300016: window_8
+    4300018: window_9
+    4300020: window_10
+    4300022: skull
+    4300024: spire
+    4300026: tower_ground
+    4300028: window_gound
+    4300030: window_ground_1
+    4300032: windows_ground_2
+    4300034: windows_ground_3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

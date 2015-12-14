@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/_Game/Castle_Raider_V_1_0_0.unity
+  isLoaded: 1
+  isActive: 1
