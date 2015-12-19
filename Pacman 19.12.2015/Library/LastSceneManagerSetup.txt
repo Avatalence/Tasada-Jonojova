@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/NyLevel4.unity
+  isLoaded: 1
+  isActive: 1
